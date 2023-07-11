@@ -1,4 +1,4 @@
-# Spotify Controller App
+# Spotify Controller Ap
 
 The Spotify Controller App is a web application that allows users to control their Spotify playback and manage playlists. It provides a user-friendly interface for authorization, device selection, playlist management, and playback control.
 
