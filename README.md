@@ -17,7 +17,7 @@ The Spotify Controller App is a web application that allows users to control the
 - JavaScript
 - Bootstrap
 
-## How to Use**
+## How to Use
 
 - Clone the repository to your local machine.
 - Open the index.html file in a web browser.
